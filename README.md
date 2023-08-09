@@ -1,2 +1,4 @@
 # Job Applier
-A chrome extension for automatically filling out online job application forms
+By Edwin Pavlovsky
+
+## A chrome extension for automatically filling out online job application forms
